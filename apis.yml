@@ -1,0 +1,32 @@
+aid: gurbaninow
+name: GurbaniNow
+description: "Fast and Accurate Gurbani RESTful API"
+url: https://github.com/GurbaniNow/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Books"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Books
+  - Public APIs
+apis:
+  - name: GurbaniNow
+    description: "Fast and Accurate Gurbani RESTful API"
+    humanURL: https://github.com/GurbaniNow/api
+    baseURL: https://github.com/GurbaniNow/api
+    tags:
+      - Books
+    properties:
+      - type: Documentation
+        url: https://github.com/GurbaniNow/api
+common:
+  - type: Website
+    url: https://github.com/GurbaniNow/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
