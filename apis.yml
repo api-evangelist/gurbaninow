@@ -39,7 +39,6 @@ apis:
   - name: GurbaniNow
     description: "Fast and Accurate Gurbani RESTful API"
     humanURL: https://github.com/GurbaniNow/api
-    baseURL: https://github.com/GurbaniNow/api
     tags:
       - Books
     properties:
